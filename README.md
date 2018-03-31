@@ -1,5 +1,5 @@
 # Role Based Access Control PHP Framework
-Role Based Access Control PHP Framework This is my personal RBAC php framework for inorder to make a rapid development regarding login and verify process. this php script equipped with md5 hashing for small scale system (you may used any type of hashing you desired). This script is already has the required file structure to jumpstart you system development. 
+Role Based Access Control PHP Framework is my personal PHP script in order to develop a rapid system/application mainly focusing on login and verify user access control process. this php script equipped with md5 hashing for small scale system (you may used any type of hashing you desired). This script already has the required file structure to jumpstart you system development. 
 
 ### Prerequisites
 
