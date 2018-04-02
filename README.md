@@ -21,7 +21,7 @@ Explaination of the columns in the users table
 2. Copy all the project items
 3. The file structure is easy to use and understand. admin, user and accountant is the type of the user in your system.
 4. configure the database credentials and configuration details in the 'includes/config.php'
-5. cif there's no user available in the database, run this sql below
+5. if there's no user available in the database, run this sql below
 ```
 INSERT INTO `user` (`id`, `email`, `password`, `name`, `userType`) VALUES
 (57, 'admin@email.com', 'ee11cbb19052e40b07aac0ca060c23ee', 'Muhammad Farid', 1),
