@@ -15,3 +15,4 @@ COLLATE='latin1_swedish_ci'
 ENGINE=InnoDB
 AUTO_INCREMENT=57
 ;
+-- remove accountStatus to prevent confusion
