@@ -6,7 +6,7 @@ Role Based Access Control PHP Framework is my personal PHP script in order to de
 Explaination of the columns in the users table
 - id : unique value of the user data
 - email : email of the user
-- password : password of the user
+- password : password of the user (MD5 Hash)
 - name : name of the user
 - userType : type of the user. determined by Int such as 1 for admin, 2 for user , 3 for accountant
 
